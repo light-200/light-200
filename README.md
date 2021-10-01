@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, html, css, js**
 
-- ⚡ Fun fact **I am you**
+- ⚡ Fun fact **there's no fun**
 
 
 <h3 align="left">Languages and Tools:</h3>
