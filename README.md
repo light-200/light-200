@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm light</h1>
-<h3 align="center">A passionate web developer and designer</h3>
+<h3 align="center">A web developer and designer</h3>
 
 - 🌱 I’m currently learning **next.js, typescript and opensource contribution**
 
