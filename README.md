@@ -4,4 +4,4 @@
 </p>
 Next.js, React.js, Tailwind, Typescript and Prisma. 
 
-currently looking for a full stack developer role.
+full stack developer at cypherock.
