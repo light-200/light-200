@@ -2,6 +2,9 @@
 
 <p style="width: 400px">
 </p>
-Next.js, React.js, Tailwind, Typescript and Prisma. 
 
-full stack developer at cypherock.
+
+- React, React Native, Electron
+- Typescript, Go, C++, Python 
+
+Sofware Engineer at Cypherock.
